@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-data
 data/
-!data/order_execution_logs_csv/
-!data/order_execution_logs_csv/**
-!data/flagged_order_summary.csv/
-!data/flagged_order_summary.csv/**
+!data/flagged_order_summary.csv
+!data/order_execution_logs.csv
