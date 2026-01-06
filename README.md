@@ -1,8 +1,8 @@
-# Thinkorswim Trade Analytics Pipeline
+# Trade Analytics Pipeline
 
-This project simulates a robust trade analytics pipeline inspired by Thinkorswim, a trading platform developed by Charles Schwab. It replicates real-world trading data scenarios to enable validation, anomaly detection, and analytical insights using Python.
+This project simulates a robust trade analytics pipeline inspired by trading platforms. It replicates real-world trading data scenarios to enable validation, anomaly detection, and analytical insights using Python.
 
-As a Senior Business Analyst, I designed this solution to reflect production-level data quality checks and to empower QA teams, developers, and business users with actionable reporting and traceability.
+As a Business /Data Analyst, I designed this solution to reflect production-level data quality checks and to empower QA teams, developers, and business users with actionable reporting and traceability.
 
 ---
 ## How It Works
@@ -45,9 +45,8 @@ cd thinkorswim_trade_data_validator
 
 ---
 
-## 👤 My Role as a Business Analyst
 
-As a Senior Business Analyst, I designed the full pipeline and took ownership of:
+As a Business Analyst, I designed the full pipeline and took ownership of:
 
 - Defining validation rules for order execution data  
 - Writing Python-based logic to simulate real trading behavior  
