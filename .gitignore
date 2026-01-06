@@ -1,7 +1,0 @@
-.idea/
-__pycache__/
-*.pyc
-.DS_Store
-data/
-!data/flagged_order_summary.csv
-!data/order_execution_logs.csv
